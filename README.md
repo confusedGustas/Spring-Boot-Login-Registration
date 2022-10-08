@@ -5,7 +5,7 @@ This application was made while learning Spring Boot backend development.
 
 Application uses MySQL, BCrypt password encryption and Spring Boot email sender.
 
-If any mistakes were made please send Pull Request.
+If any mistakes were made please send a Pull Request.
 ## API Reference
 
 #### Get by Id
